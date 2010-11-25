@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 0.91'
+generated_by: 'Module::Install version 1.00'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -18,9 +18,9 @@ no_index:
     - inc
     - t
 requires:
-  Moose: 0.90
+  Moose: 1.2
   aliased: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/ruoso/MooseX-TransactionalMethods/
-version: 0.006
+version: 0.007
