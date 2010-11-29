@@ -18,9 +18,9 @@ no_index:
     - inc
     - t
 requires:
-  Moose: 1.2
+  Moose: 1.21
   aliased: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/ruoso/MooseX-TransactionalMethods/
-version: 0.007
+version: 0.008
